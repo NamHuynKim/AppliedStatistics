@@ -1,0 +1,14 @@
+﻿빌드 시작: 2015-10-28 오후 8:38:02
+     1>2 노드의 "J:\2015source\Projects\AppliedStatistics\BivariateAnalysis\BivariateAnalysis.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Driver.c
+         Driver.c
+     1>j:\2015source\projects\appliedstatistics\bivariateanalysis\driver.c(114): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\2015source\Projects\AppliedStatistics\Debug\BivariateAnalysis.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"J:\2015source\Projects\AppliedStatistics\Debug\BivariateAnalysis.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\2015source\Projects\AppliedStatistics\Debug\BivariateAnalysis.lib" /MACHINE:X86 Debug\Driver.obj
+         BivariateAnalysis.vcxproj -> J:\2015source\Projects\AppliedStatistics\Debug\BivariateAnalysis.exe
+     1>"J:\2015source\Projects\AppliedStatistics\BivariateAnalysis\BivariateAnalysis.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.72

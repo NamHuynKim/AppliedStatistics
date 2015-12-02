@@ -1,0 +1,16 @@
+﻿빌드 시작: 2015-11-10 오후 4:21:29
+     1>2 노드의 "F:\2015source\Projects\AppliedStatistics\151103Quiz\151103Quiz.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Driver.c
+         Driver.c
+     1>f:\2015source\projects\appliedstatistics\151103quiz\driver.c(112): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>f:\2015source\projects\appliedstatistics\151103quiz\driver.c(99): warning C4716: 'MakeCombination': 값을 반환해야 합니다.
+     1>f:\2015source\projects\appliedstatistics\151103quiz\driver.c(125): warning C4716: 'MakePermutation': 값을 반환해야 합니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\2015source\Projects\AppliedStatistics\Debug\151103Quiz.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\2015source\Projects\AppliedStatistics\Debug\151103Quiz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\2015source\Projects\AppliedStatistics\Debug\151103Quiz.lib" /MACHINE:X86 Debug\Driver.obj
+         151103Quiz.vcxproj -> F:\2015source\Projects\AppliedStatistics\Debug\151103Quiz.exe
+     1>"F:\2015source\Projects\AppliedStatistics\151103Quiz\151103Quiz.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.07

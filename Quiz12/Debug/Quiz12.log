@@ -1,0 +1,18 @@
+﻿빌드 시작: 2015-12-01 오후 5:09:13
+     1>2 노드의 "F:\2015source\Projects\AppliedStatistics\Quiz12\Quiz12.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Driver.c
+         Driver.c
+     1>f:\2015source\projects\appliedstatistics\quiz12\driver.c(115): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>f:\2015source\projects\appliedstatistics\quiz12\driver.c(130): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>f:\2015source\projects\appliedstatistics\quiz12\driver.c(135): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>f:\2015source\projects\appliedstatistics\quiz12\driver.c(168): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>f:\2015source\projects\appliedstatistics\quiz12\driver.c(173): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\2015source\Projects\AppliedStatistics\Debug\Quiz12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\2015source\Projects\AppliedStatistics\Debug\Quiz12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\2015source\Projects\AppliedStatistics\Debug\Quiz12.lib" /MACHINE:X86 Debug\Driver.obj
+         Quiz12.vcxproj -> F:\2015source\Projects\AppliedStatistics\Debug\Quiz12.exe
+     1>"F:\2015source\Projects\AppliedStatistics\Quiz12\Quiz12.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.80
